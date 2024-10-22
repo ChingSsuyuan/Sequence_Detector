@@ -19,14 +19,14 @@
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
-module task_1_testbench;
+module store_inputs_testbench;
 
     reg [9:0] switches;
     reg rst;
     reg clk;
     wire [9:0] sequence;
     
-    Task_1 uut (
+    store_inputs uut (
         .switches(switches),
         .rst(rst),
         .clk(clk),
