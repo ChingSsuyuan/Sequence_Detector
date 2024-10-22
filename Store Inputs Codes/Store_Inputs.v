@@ -19,7 +19,7 @@
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
-module Task_1(    
+module store_inputs(    
     input clk, rst,        
     input [1:0] btn,       // For better control of simulation
     input [9:0] switches,  // 10-bit binary input, 10 switches
