@@ -3,7 +3,7 @@
 
 #### The Project includes three parts:
 
-## Part1: Store Switch Inputs
+## Part1: Store Switch Inputs 
 
 ## Part2: Clock Divider
 
