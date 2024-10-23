@@ -8,3 +8,5 @@ A clock divider takes an input clock of a given frequency and generates an outpu
 ## Waveform analysis
 ![GitHub Logo](https://github.com/ChingSsuyuan/Vivado_State_Machine_Project/blob/c7ab4a18f64dbb35080f1c79f0c4fb132e3b7371/Clock%20Divider/waveform2.png)
 Implemented a clock divider that receives clk and rst as inputs, and outputs a clock with afrequency of 1Hz. The input clock frequency is 100MHz
+
+![GitHub Logo]()
