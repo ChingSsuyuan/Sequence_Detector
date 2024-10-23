@@ -20,7 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module task2_testbench;
+module Clock_Divider_testbench;
     reg clk;         
          
     wire clk_out;    
