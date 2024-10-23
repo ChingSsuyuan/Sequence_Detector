@@ -7,6 +7,7 @@
 Input is a 10-bit binary number, provided via ten switches (each representing one bit). We Store this 10-bit number in a 10-bit shift register.
 The register will only update its storage after pressing reset button.
 
-## Part2: Clock Divider
+## [Part2: Clock Divider ](https://github.com/ChingSsuyuan/Vivado_State_Machine_Project/tree/8c4b00b59ab98193503395b9d9de03b9d6740b0d/Clock%20Divider)
+
 
 ## Part3: State Machine
