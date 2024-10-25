@@ -8,7 +8,11 @@
 - When the state machine is working, the seven-segment will display the number of “101” dynamically. For example, if the sequence is “1010101010”, when it processed the third digit, the seven-segment will display “1”, then when it processed the fifth digit, the seven-segment will display “2”.
 
 ## Functions and Codes
+Top Module: Top_Module.v
 
-State Machine: code.v and testbench .v files 
+Clock Divder: Clock_Divider.v
 
-Top Module: code.v Main()
+State Machine: state_machine1.v
+
+
+
