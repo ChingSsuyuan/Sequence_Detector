@@ -25,7 +25,7 @@ module Clock_Divider_testbench;
          
     wire clk_out;    
 
-    Clock_Divider uut (
+    ClockDivider uut (
         .clk(clk),
 
         .clk_out(clk_out)
