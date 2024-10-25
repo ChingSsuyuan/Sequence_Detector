@@ -10,4 +10,5 @@
 ## Functions and Codes
 
 State Machine: code.v and testbench .v files 
+
 Top Module: code.v Main()
