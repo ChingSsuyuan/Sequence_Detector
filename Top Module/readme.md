@@ -10,7 +10,7 @@
 ## Functions and Codes
 Top Module: Top_Module.v
 
-Clock Divder: Clock_Divider.v
+[Clock Divder: ClockDivider.v](https://github.com/ChingSsuyuan/Vivado_State_Machine_Project/blob/fa4d40ef10bdc595c624a722c244d17043bb9324/Clock%20Divider/ClockDivider.v)
 
 State Machine: state_machine1.v
 
