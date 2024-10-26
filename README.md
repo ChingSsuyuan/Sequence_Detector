@@ -11,3 +11,4 @@ The register will only update its storage after pressing reset button.
 Change clock cycle from 100MHZ to 1Hz, slow down the clock to implement seven segements display in 1 Instruction/Second
 
 ## [Part3: State Machine](https://github.com/ChingSsuyuan/Vivado_State_Machine_Project/tree/84dd13d7e2cc8164f7c00bf325b66cfc1ece1cd0/Top%20Module)
+101 Sequence Detector with Overlap
