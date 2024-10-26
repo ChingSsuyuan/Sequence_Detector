@@ -1,24 +1,5 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 10/10/2024 04:25:45 PM
-// Design Name: 
-// Module Name: seven
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
-
+/////////////////////////////////////////////////////////////////////////////////
 
 module seven_segment(input [3:0] in, output reg [3:0] seven_enable, output reg A,  output reg B, output reg C, output reg D, output reg E, output reg F, output reg G);
 
