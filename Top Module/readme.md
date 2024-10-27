@@ -14,5 +14,5 @@
 
 State Machine: state_machine1.v
 
-Seven Segement Display.v
+Seven Segement Display
 
