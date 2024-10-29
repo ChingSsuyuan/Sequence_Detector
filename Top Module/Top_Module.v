@@ -1,6 +1,22 @@
 `timescale 1ns / 1ps
-
-
+//////////////////////////////////////////////////////////////////////////////////
+// Company: Boston Univerity
+// Engineer: Siyuan Jing
+// 
+// Create Date: 10/10/2024 03:20:36 PM
+// Design Name: 
+// Module Name: ClockDivider
+// Project Name: 
+// Target Devices: 
+// Tool Versions: 
+// Description: 
+// Dependencies: 
+// 
+// Revision:
+// Revision 0.01 - File Created
+// Additional Comments:
+// 
+//////////////////////////////////////////////////////////////////////////////////
 
 module Top_module(clk, rst, switches, seven_seg, seven_enable,leds);
     input clk, rst; // Needed for synchronous inputs
