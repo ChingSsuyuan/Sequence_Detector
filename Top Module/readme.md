@@ -12,7 +12,7 @@
 
 [Clock Divder: ClockDivider.v](https://github.com/ChingSsuyuan/Vivado_State_Machine_Project/blob/fa4d40ef10bdc595c624a722c244d17043bb9324/Clock%20Divider/ClockDivider.v)
 
-State Machine: state_machine1.v
+[State Machine: state_machine2.v]()
 
 [Seven Segement Display](https://github.com/ChingSsuyuan/Vivado_State_Machine_Project/blob/4177ff4c64a09f451cc75a66aa1dba726de29c99/Top%20Module/Seven_Segement_Display.v)
 
