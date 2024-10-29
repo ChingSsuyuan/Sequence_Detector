@@ -16,3 +16,4 @@
 
 [Seven Segement Display](https://github.com/ChingSsuyuan/Vivado_State_Machine_Project/blob/4177ff4c64a09f451cc75a66aa1dba726de29c99/Top%20Module/Seven_Segement_Display.v)
 
+## Waveform of state machine
