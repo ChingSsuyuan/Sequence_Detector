@@ -1,16 +1,15 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: Boston Univerity
+// Engineer: Siyuan Jing
 // 
 // Create Date: 10/10/2024 03:20:36 PM
 // Design Name: 
-// Module Name: TASK2
+// Module Name: ClockDivider
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
 // Description: 
-// 
 // Dependencies: 
 // 
 // Revision:
