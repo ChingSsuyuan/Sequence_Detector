@@ -18,7 +18,11 @@ Change display time to 1s
 
 [State Machine: state_machine2.v](https://github.com/ChingSsuyuan/Vivado_State_Machine_Project/blob/c2449a055db7c6f6d072deee2c818083bd5b000e/Top%20Module/state_machine2.v)
 
+The state machine only updates the sequence after pressing the reset button. When it is working, changing the input won’t affect the result.
+
 [Seven Segement Display](https://github.com/ChingSsuyuan/Vivado_State_Machine_Project/blob/4177ff4c64a09f451cc75a66aa1dba726de29c99/Top%20Module/Seven_Segement_Display.v)
+
+Display the number of “101”
 
 ## Waveform of state machine
 ![waveform](https://github.com/ChingSsuyuan/Vivado_State_Machine_Project/blob/1fad1ced63a63e4e3801f1469d772d1dda92bcea/Top%20Module/waveform4.png)
