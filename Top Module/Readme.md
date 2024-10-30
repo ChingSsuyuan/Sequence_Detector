@@ -9,9 +9,13 @@
 
 ## Functions and Codes
 [Top Module: Top_Module.v](https://github.com/ChingSsuyuan/Vivado_State_Machine_Project/blob/2abd67cf35d04ee5393b5ead6ede20763d1f44a4/Top%20Module/Top_Module.v)
+
 Handle the whole State machine process
+
 [Clock Divder: ClockDivider.v](https://github.com/ChingSsuyuan/Vivado_State_Machine_Project/blob/fa4d40ef10bdc595c624a722c244d17043bb9324/Clock%20Divider/ClockDivider.v)
+
 Change display time to 1s
+
 [State Machine: state_machine2.v](https://github.com/ChingSsuyuan/Vivado_State_Machine_Project/blob/c2449a055db7c6f6d072deee2c818083bd5b000e/Top%20Module/state_machine2.v)
 
 [Seven Segement Display](https://github.com/ChingSsuyuan/Vivado_State_Machine_Project/blob/4177ff4c64a09f451cc75a66aa1dba726de29c99/Top%20Module/Seven_Segement_Display.v)
